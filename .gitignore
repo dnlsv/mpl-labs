@@ -1,0 +1,17 @@
+# Intellij IDEA #
+.idea
+target/
+out/
+*.iml
+
+# MS Visual Studio #
+.vs
+Debug/
+
+# Scala #
+.bsp
+
+# Eclipse #
+.metadata
+bin/
+.settings
